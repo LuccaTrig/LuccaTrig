@@ -17,7 +17,7 @@ Olá! Meu nome é Lucca. Sou um estudante universitario e entusiasta da tecnolog
 
 ## 📫 Vamos nos conectar!
 
-- ✉️ **Email:** [lhtrigueiro@gmail.com(mailto:lhtrigueiro@gmail.com)
+- ✉️ **Email:** [lhtrigueiro@gmail.com](mailto:lhtrigueiro@gmail.com)
 
 ---
 
